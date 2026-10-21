@@ -5,7 +5,7 @@ cyber-lab. These are the three pieces that make it look the part, all generated 
 little Python, all free. Built on [Omarchy](https://omarchy.org) (Arch + Hyprland) but the
 pieces work on most Linux desktops.
 
-> **Zero GPU. Zero dollars. Zero excuses.**
+> **One GPU. Zero dollars. Zero excuses.**
 
 ![Matrix wallpaper](img/wake-up-rabbid.png)
 
@@ -44,7 +44,7 @@ Edit the message and colors near the top of each script to make it yours.
 
 ## Me
 
-Rabbid Raccoon — a Linux rookie running a whole crew of free AIs on one laptop, no GPU.
+Rabbid Raccoon — a Linux rookie running a whole crew of free AIs. Started on laptops with no GPU, now on my own Ubuntu rig with an RTX 5060.
 [Homepage](https://2db2du-byte.github.io) · [GitHub](https://github.com/2db2du-byte) · [Bluesky](https://bsky.app/profile/rabbid-raccoon.bsky.social) · [Blog](https://dev.to/rabbidraccoon)
 
 MIT licensed. Have fun. 🦝
