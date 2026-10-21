@@ -45,6 +45,6 @@ Edit the message and colors near the top of each script to make it yours.
 ## Me
 
 Rabbid Raccoon — a Linux rookie running a whole crew of free AIs. Started on laptops with no GPU, now on my own Ubuntu rig with an RTX 5060.
-[Homepage](https://2db2du-byte.github.io) · [GitHub](https://github.com/2db2du-byte) · [Bluesky](https://bsky.app/profile/rabbid-raccoon.bsky.social) · [Blog](https://dev.to/rabbidraccoon)
+[Homepage](https://2db2du-byte.github.io) · [GitHub](https://github.com/2db2du-byte) · [Bluesky](https://bsky.app/profile/rabbid-raccoon.bsky.social) · [X](https://x.com/IKAGTKAGRabbid) · [Blog](https://dev.to/rabbidraccoon)
 
 MIT licensed. Have fun. 🦝
